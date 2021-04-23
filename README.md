@@ -1,2 +1,4 @@
-# PGAvsAMATEUR
-PGA Tour yardage vs amateur golfer yardage by club
+# Differences in yardage for PGA, LGPA, and Amateur Golfers by Club type
+Motivation
+
+
